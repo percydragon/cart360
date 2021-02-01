@@ -4,12 +4,10 @@ Below is the documentation of the prototype for CART 360 and what will become th
 While the title for the project itself has not been decided, I have temporarily called it "Vibrating Scarf".
 
 ### Arduino System
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-*original code*
-/ FSR simple testing sketch.  <br>Connect one end of FSR to power, the other end to Analog 0.
+Below are the two versions of the code used for the Arduino System, both the original version and the version that was modified by Ellio after our discussion on Feb 1, 2021.
+```
+**original code**
+``/ FSR simple testing sketch. Connect one end of FSR to power, the other end to Analog 0.
 Then connect one end of a 10K resistor from Analog 0 to ground
 /
 
@@ -66,11 +64,11 @@ void loop(void) {
   analogWrite(mvm, mvmShake);
 
   delay(100);
-}
+}``
 
 
-*updated by Ellio*
-int fsrPin = 0;     // the FSR and 10K pulldown are connected to a0
+**updated by Ellio**
+`int fsrPin = 0;     // the FSR and 10K pulldown are connected to a0
 int fsrReading;     // the analog reading from the FSR resistor divider
 int mvm = 11; // the motor is connected to pin 5
 int data = 0;
@@ -133,6 +131,10 @@ void loop() {
 
 
 
-}
+}``
 
 ```
+The reasons for the modification made by Ellio was so that the could would not simply take one instance and read it, but multiple instance of the input.
+
+###Images and Videos of Prototype
+Listed below are images of the prototype
