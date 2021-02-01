@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Percy Dragon's documentation
 
-You can use the [editor on GitHub](https://github.com/percydragon/cart360/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below is the documentation of the prototype for CART 360 and what will become the final artifact.
+While the title for the project itself has not been decided, I have temporarily called it "Vibrating Scarf".
 
 ### Markdown
 
