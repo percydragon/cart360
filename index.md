@@ -7,7 +7,8 @@ While the title for the project itself has not been decided, I have temporarily 
 Below are the two versions of the code used for the Arduino System, both the original version and the version that was modified by Ellio after our discussion on Feb 1, 2021.
 ```
 **original code**
-``/ FSR simple testing sketch. Connect one end of FSR to power, the other end to Analog 0.
+```
+/ FSR simple testing sketch. Connect one end of FSR to power, the other end to Analog 0.
 Then connect one end of a 10K resistor from Analog 0 to ground
 /
 
@@ -64,11 +65,13 @@ void loop(void) {
   analogWrite(mvm, mvmShake);
 
   delay(100);
-}``
+}
+```
 
 
 **updated by Ellio**
-`int fsrPin = 0;     // the FSR and 10K pulldown are connected to a0
+```
+int fsrPin = 0;     // the FSR and 10K pulldown are connected to a0
 int fsrReading;     // the analog reading from the FSR resistor divider
 int mvm = 11; // the motor is connected to pin 5
 int data = 0;
@@ -131,10 +134,18 @@ void loop() {
 
 
 
-}``
+}
 
 ```
 The reasons for the modification made by Ellio was so that the could would not simply take one instance and read it, but multiple instance of the input.
 
-###Images and Videos of Prototype
+### Images and Videos of Prototype
 Listed below are images of the prototype
+![image of Scarf 1]
+(https://cdn.discordapp.com/attachments/623295778412167180/805869798859866162/IMG_8030.jpg)
+![image of Scarf 2]
+(https://cdn.discordapp.com/attachments/623295778412167180/805869807407726632/IMG_8031.jpg)
+![image of Scarf 3]
+(https://cdn.discordapp.com/attachments/623295778412167180/805869807449931826/IMG_8032.jpg)
+![image of Fabric]
+(https://cdn.discordapp.com/attachments/623295778412167180/805869808797089822/IMG_8033.jpg)
