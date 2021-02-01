@@ -9,11 +9,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 *original code*
-/* FSR simple testing sketch.  <br>Connect one end of FSR to power, the other end to Analog 0.
+/ FSR simple testing sketch.  <br>Connect one end of FSR to power, the other end to Analog 0.
 Then connect one end of a 10K resistor from Analog 0 to ground
-*/
+/
 
-/* FSR testing sketch.
+/ FSR testing sketch.
 Connect one end of FSR to 5V, the other end to Analog 0.
 Then connect one end of a 10K resistor from Analog 0 to ground
 Connect LED from pin 13 through a resistor to ground
