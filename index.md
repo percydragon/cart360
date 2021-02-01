@@ -5,7 +5,7 @@ While the title for the project itself has not been decided, I have temporarily 
 
 ### Arduino System
 Below are the two versions of the code used for the Arduino System, both the original version and the version that was modified by Ellio after our discussion on Feb 1, 2021.
-```
+
 **original code**
 ```
 / FSR simple testing sketch. Connect one end of FSR to power, the other end to Analog 0.
@@ -141,6 +141,7 @@ The reasons for the modification made by Ellio was so that the could would not s
 
 ### Images and Videos of Prototype
 Listed below are images of the prototype
+
 ![image of Scarf 1]
 (https://cdn.discordapp.com/attachments/623295778412167180/805869798859866162/IMG_8030.jpg)
 ![image of Scarf 2]
