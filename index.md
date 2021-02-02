@@ -143,7 +143,9 @@ The reasons for the modification made by Ellio was so that the could would not s
 Listed below are images of the prototype
 
 ![Image of Arduino]
-(/cart360/cart360/CIRCUIT.jpg)
+(/cart360/CIRCUIT.jpg)
+
+<video src="video0.mov" width="320" height="200" controls preload></video>
 
 ![Image of Scarf 1]
 (https://cdn.discordapp.com/attachments/623295778412167180/805869798859866162/IMG_8030.jpg)
