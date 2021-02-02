@@ -146,9 +146,24 @@ Listed below are images of the prototype
 
 <video src="video0.mov" width="320" height="200" controls preload></video>
 
+
+
 ### Images of Fabric considered for project
 
 ![Image of Scarf 1](https://cdn.discordapp.com/attachments/623295778412167180/805869798859866162/IMG_8030.jpg)
+
+The fabric depicted here is far to sheer to be able to support the motors needed for the vibration.
+
 ![Image of Scarf 2](https://cdn.discordapp.com/attachments/623295778412167180/805869807407726632/IMG_8031.jpg)
+
+This scarf here would not be suitable for an all around scarf, as the fabric is far too thick to be worn in the summer, it would be far better suited for a winter scarf, since that's the scarf's original purpose is.
+
 ![Image of Scarf 3](https://cdn.discordapp.com/attachments/623295778412167180/805869807449931826/IMG_8032.jpg)
+
+The scarf depicted here would be the perfect type of scarf to use for the project, but I'd rather not ruin one of my own personal scarves. Secondly, I think that the scarf would require to be double layered so that the motors can be secured safely into the scarf.
+
 ![Image of Fabric](https://cdn.discordapp.com/attachments/623295778412167180/805869808797089822/IMG_8033.jpg)
+
+Shown are there selected fabrics for the project. The purple fabric would be used to keep the motors solidly in place, as its a a much more rigid fabric, compared to the pink fabric, that's more cute and has a bird print pattern on it.
+
+With these layers, the motors would be secure, and as discusse with Ellio, there would be some soft of stuffing to keep the motors secured. The FSR would be at one end of the scarf, and would also be safe secured and accessible to the user. 
