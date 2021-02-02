@@ -166,4 +166,9 @@ The scarf depicted here would be the perfect type of scarf to use for the projec
 
 Shown are there selected fabrics for the project. The purple fabric would be used to keep the motors solidly in place, as its a a much more rigid fabric, compared to the pink fabric, that's more cute and has a bird print pattern on it.
 
-With these layers, the motors would be secure, and as discusse with Ellio, there would be some soft of stuffing to keep the motors secured. The FSR would be at one end of the scarf, and would also be safe secured and accessible to the user. 
+With these layers, the motors would be secure, and as discusse with Ellio, there would be some soft of stuffing to keep the motors secured. The FSR would be at one end of the scarf, and would also be safe secured and accessible to the user.
+
+#### Links used
+[Electronic Clinic](http://www.electroniclinic.com/arduino-micro-vibration-motor-arduino-vibration-motor-code-interfacing/)
+
+[Instructables](https://www.instructables.com/Interfacing-Force-Sensitive-Resistor-to-Arduino/)
