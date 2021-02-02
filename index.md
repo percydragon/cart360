@@ -142,11 +142,14 @@ The reasons for the modification made by Ellio was so that the could would not s
 ### Images and Videos of Prototype
 Listed below are images of the prototype
 
-![image of Scarf 1]
+![Image of Arduino]
+(/cart360/cart360/CIRCUIT.jpg)
+
+![Image of Scarf 1]
 (https://cdn.discordapp.com/attachments/623295778412167180/805869798859866162/IMG_8030.jpg)
-![image of Scarf 2]
+![Image of Scarf 2]
 (https://cdn.discordapp.com/attachments/623295778412167180/805869807407726632/IMG_8031.jpg)
-![image of Scarf 3]
+![Image of Scarf 3]
 (https://cdn.discordapp.com/attachments/623295778412167180/805869807449931826/IMG_8032.jpg)
-![image of Fabric]
+![Image of Fabric]
 (https://cdn.discordapp.com/attachments/623295778412167180/805869808797089822/IMG_8033.jpg)
