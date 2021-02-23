@@ -1,5 +1,1 @@
 theme: jekyll-theme-minimal
-.
-├── index.md     # => http://example.com/about.html
-├── artifact.md  # => http://example.com/
-└── prototype.md
